@@ -1,0 +1,37 @@
+.inputtext{
+background-color: #f1f1f1;
+width: 300px;
+position: relative;
+display: inline-block;
+border: 1px solid transparent;
+padding: 10px;
+font-size: 16px;
+}
+
+.lbltext{
+background-color: DodgerBlue;
+color: #fff;
+cursor: pointer;
+border: 1px solid transparent;
+padding: 10px;
+font-size: 16px;
+}
+
+ul{
+position: absolute;
+border: 1px solid #d4d4d4;
+border-bottom: none;
+border-top: none;
+left: 0;
+right: 0
+}
+
+
+li{
+padding: 10px;
+cursor: pointer;
+background-color: #f0eeee;
+border-bottom: 1px solid #d4d4d4;
+list-style: none;
+width: 25%;
+}
